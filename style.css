@@ -21,3 +21,35 @@ body {
 */
 
 /* ----- zde zacni psat vlastni css ----- */
+.card {
+    display: flex;
+    width: 670px;
+    height: 440px;
+}
+.half {
+
+}
+.green {
+   background-image:linear-gradient(to top,#50cc49,#06d7c1);
+}
+.white {
+
+}
+.button {
+    background-color: #f15f42;
+}
+.size ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.chosen {
+    color: #f15f42;
+    border:solid #f15f42;
+    border-radius: 50%;
+}
+a {
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
